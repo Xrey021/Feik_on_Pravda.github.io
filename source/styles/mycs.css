@@ -1,0 +1,101 @@
+.informaishion1 {
+    display: inline-block;
+    text-align: center;
+}
+.nav-link {
+    color: rgb(0, 0, 255);
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(255, 17, 0);
+}
+
+.navbar-brand img {
+    width: 35px;
+}
+
+.navbar-toggler {
+    background-color: rgb(255, 255, 255)
+}
+.video-p1 {
+    text-align: center;
+    display: block;
+    color: cornsilk;  
+ border-style: solid;
+ list-style: none;
+ border-bottom-style: solid;
+    border-width: 5px;
+    margin: 12.5px;
+    padding: 0;
+    padding-bottom: 0px; 
+    border-color: blue;
+    display: inline-block;
+}
+.header {
+    width: 50%;
+    float: left;
+}
+.header2 {
+    width: 85%;
+    float: right;
+}
+.section {
+ width: 65%;
+    float: right;
+}
+.prizer {
+    color: blue;
+}
+.right__readmore {
+    margin-bottom: 48px;
+    float: right;
+}
+.right_container {
+    text-align: center;
+    color: cornsilk;  
+ border-style: solid;
+ list-style: none;
+ border-bottom-style: solid;
+    border-width: 0px;
+    margin: 1.5px;
+    padding: 0;
+    padding-bottom: 0px; 
+    border-color: rgb(0, 0, 0);
+    display: inline-block;
+    text-decoration: none; color:black;
+    
+}
+
+.right {
+    width: 40%;
+    float: right;
+    display: inline-block;
+}
+.left {
+    width:90% ;
+}
+.reclama {
+    text-align: center;
+padding: 0; 
+    width: 0;
+}
+.rkm {
+    border-bottom-style: solid;
+    border-bottom-color: rgb(218, 215, 211);
+
+}
+.crossword {
+    display: inline-block;
+    float: left ;
+
+}
+.otbet {
+    border-style: solid;
+    display: inline-block;
+    margin: 0.5px;
+}
+.right_otv {
+    display: inline-block;
+    float: right;
+    width: 49%;
+}
